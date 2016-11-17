@@ -1,0 +1,4 @@
+1. @meet lunch <event_name> 2
+2. @trip <place_near_airport>
+3. Upload image from demo folder. Shows trip itinerary.
+4. @cat
